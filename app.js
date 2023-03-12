@@ -202,5 +202,5 @@ joe.scopeArrow();
 // When invoked this produces Student {name: 'Joe', age: 'Schmoe', hometown: 100}
 // 2. What is "this" when joe.scopeArrow() is invoked?
 // When invoked this opens a browser window
-// 3. Explain why "this" is different when an arrow function is used. This is displaying the data of the function.
+// 3. Explain why "this" is different when an arrow function is used. This is displaying the data of the function. 
 //
